@@ -39,4 +39,4 @@ This definition correlates to a constant interface and an implementation in a gi
 
 # Naming Rationale
 
-Unity is in fact a terrible mistake-- just, what associations can you recall with the word "unity"? Huh? Yeah, I know, right. Well, now this time it's for a reason.
+Unity is in fact a terrible mistake-- just, what associations can you recall with the word "unity"? Huh? Yeah, I know, right. Well, now this time it's for a reason lol.
